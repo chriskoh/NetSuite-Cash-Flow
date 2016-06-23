@@ -1,0 +1,67 @@
+#myTable{
+	border-collapse:collapse; 
+	border-color:#000000; 
+	border-style:solid; 
+	border-width:1px;
+}
+#myTRWhite{
+	border:1px solid;
+	border-color:#C4C4C4; 
+	border-collapse: collapse;
+}
+#locked{
+	position:fixed;
+}
+
+#names{
+	border:1px solid;
+	border-color:#C4C4C4; 
+	border-collapse: collapse;
+	text-align: left;
+	font-weight:bold;
+}
+#titles{
+	border:1px solid;
+	border-color:#C4C4C4; 
+	border-collapse: collapse;
+	text-align: left;
+	white-space: nowrap;
+	overflow: hidden;
+}
+#titlesIndented{
+	border:1px solid;
+	border-color:#C4C4C4; 
+	border-collapse: collapse;
+	text-align: left;
+	white-space: nowrap;
+	overflow: hidden;
+	text-indent: 25px;
+}
+
+
+#headder{
+	border:1px solid;
+	border-color:#C4C4C4; 
+	border-collapse: collapse;
+	text-align: center;
+}
+
+#dollarSign{
+	float:left;
+	
+}
+#data{
+	border:1px solid;
+	border-color:#C4C4C4; 
+	border-collapse: collapse;
+	text-align: right;
+
+}
+#dataTotal{
+	border:1px solid;
+	border-color:#C4C4C4; 
+	border-collapse: collapse;
+	text-align: right;
+	font-weight:bold;
+
+}
